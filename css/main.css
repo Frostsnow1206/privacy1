@@ -1,0 +1,11 @@
+@import "reset.css";
+
+body { font:86% Microsoft YaHei; background:linear-gradient(to left, #ed005e, #ff8000); background:-moz-linear-gradient(bottom left,#ed005e, #ff8000);}
+
+.main { background:#000; color:#fff; border-bottom-right-radius:10vw; padding-bottom:3vw; margin-bottom:6vw; }
+    .main .content { width:56%; padding:5vw 10vw; margin:0 auto; }
+        .main .content h1 { font-size:160%; padding-bottom:2vw; }
+        .main h3 { font-size:110%; font-weight:normal; color:#fff; line-height:24px; padding-top:30px; }
+        .main p { font-size:110%; color:#aaa; line-height:24px; padding-top:5px; }
+        .main ol { color:#aaa; list-style:decimal; line-height:24px; }
+        .main ol li { margin-left:17px; }
